@@ -114,4 +114,4 @@ python password_gen.py
 
 ---
 
-👉 These projects are **practical** and can be showcased in **job searches & freelancing profiles**.
+
